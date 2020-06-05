@@ -4,3 +4,9 @@
  v1:
  
  The current Model is EfficientNetB3. Accuracy is 87.7%. 
+
+ v2:
+
+ Added Model ResNet50
+
+ 
